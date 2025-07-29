@@ -26,6 +26,7 @@ h1 {
   padding: 10px;
   font-size: 20px;
   border-color: hsl(0, 0%, 20%);
+  outline: none;
 }
 
 #textCount {
